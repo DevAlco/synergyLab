@@ -1,0 +1,3 @@
+testDict = { "key1":"Value1" , "key2":"Value2", "key3":"Value3", "key4":"Value4" }
+
+print(testDict.keys())
